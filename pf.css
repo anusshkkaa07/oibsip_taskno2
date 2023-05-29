@@ -1,0 +1,115 @@
+body{
+    background-color: black;
+}
+.About{
+    
+    
+}
+.Education{
+    background-color:#dad4c0;
+
+}
+.Skills{
+background-color:#dcc278;
+}
+
+.Internships{
+    background-color:#bf9a8e;
+    
+
+}
+
+.contact{
+    background-color: #4b6345b1;
+
+}
+.About p{
+    
+    color: #fbfaf7;
+    font-size: 30px;
+    margin-right: 50px;
+    padding: 20px;
+    
+    width: 800px;
+    border: #615022;
+    border-radius: 5px;
+    border-width: 5px;
+    border-style: solid;
+    background-color: #07070790;
+    
+}
+
+
+#imgme{
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    margin-left: 1000px;
+    top: 4px;
+    border-radius: 80%;
+    
+
+}
+
+
+.Education h2{
+    margin-top: 5px;
+    font-size: 30px;
+    
+    text-align: center;
+    text-decoration: underline;
+
+}
+.Education table {
+    align-items: center;
+    
+    font-size: 8px;
+    margin-top: 5px;
+    
+}
+
+.Education table, th, td, tr{
+    font-size: 30px;
+    
+    
+    
+}
+
+#schoolimg{
+    
+    width: 400px;
+    height: 400px;
+
+}
+#collegeimg{
+    
+    width: 400px;
+    height: 400px;
+
+}
+
+.Skills table{
+    width: 80%;
+    border: 2px black solid;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+
+.Internships h2{
+    font-size: 30px;
+    text-decoration: underline;
+    margin-top: 10px;
+}
+
+.Internships ul{
+    font-size: 25px;
+}
+
+.contact h2{
+    margin-top: 10px;
+    font-size: 30px;
+    text-decoration: underline;
+}
+.contact h4, a{
+    font-size: 25px;
+}
